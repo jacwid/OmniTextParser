@@ -10,7 +10,7 @@
     <PackageReference Include="Accord.Math" Version="3.8.0" />
     <PackageReference Include="AngleSharp" Version="0.12.1" />
     <PackageReference Include="CsvHelper" Version="12.1.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
 </Project>
